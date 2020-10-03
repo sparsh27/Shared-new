@@ -1,3 +1,2 @@
-@Library(['SharedLibrary','Shared-new1'])_
-declarative()
+@Library('Shared-new1')_
 declarative1()
